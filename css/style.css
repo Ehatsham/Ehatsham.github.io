@@ -9,7 +9,7 @@
 body {
 	padding: 0;
 	margin: 0;
-	background: #5e1e06;
+	background: #2a3e2b;
 	font-family: 'open Sans', sans-serif;
 }
 body a {
@@ -67,7 +67,7 @@ input[type="submit"],.header_left ul li a,.agile_back_home a,.agileits_social h5
 	-ms-transition: .5s ease-in;
 }
 .header {
-    background: #170701;
+    background: #2a3e2b;
 }
 .w3l_header_left{
 	float:left;
@@ -210,7 +210,7 @@ color:#000 !important;
 
 /*-- logo-navigation --*/
 .logo-navigation-w3layouts{
-	background:#224523;
+	background:#4e754f;
 	padding:20px 0px;
 }
 .logo-w3{
@@ -410,7 +410,7 @@ color:#000 !important;
 
 .contact-w3-agileits h3:before,.about-w3-agile h3:before,.featured-work h3:before,.gallery h3:before,.team h3:before{
     content: '';
-    background: #d9d9d9;
+    background: #2a3e2b;
     width: 45%;
     height: 3px;
     position: absolute;
@@ -549,7 +549,7 @@ ul.wmuSliderPagination {
 /*-- services --*/
 .services{
 	text-align:center;
-	background:#170701;
+	background: #224523;
 }
 .services h3{
 	color:#fff;
