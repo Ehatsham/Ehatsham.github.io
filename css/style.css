@@ -735,6 +735,9 @@ ul.social-icons li .icon-button .pinterest:hover{
 /*-- team--*/
 
 /*-- Gallery --*/
+.gallery{
+background:#4e754f;
+}
 .gallery h3:before{
 	width:10%;
 }
