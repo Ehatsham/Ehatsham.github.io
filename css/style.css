@@ -9,7 +9,7 @@
 body {
 	padding: 0;
 	margin: 0;
-	background: #2a3e2b;
+	background: #a8caab;
 	font-family: 'open Sans', sans-serif;
 }
 body a {
@@ -410,7 +410,7 @@ color:#000 !important;
 
 .contact-w3-agileits h3:before,.about-w3-agile h3:before,.featured-work h3:before,.gallery h3:before,.team h3:before{
     content: '';
-    background: #2a3e2b;
+    background: #a8caab;
     width: 45%;
     height: 3px;
     position: absolute;
